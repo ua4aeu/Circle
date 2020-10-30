@@ -1,0 +1,9 @@
+C:\Users\ua4aeu\Desktop\WF\Circle\bin\Debug\Circle.exe
+C:\Users\ua4aeu\Desktop\WF\Circle\bin\Debug\Circle.pdb
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.Form1.resources
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.exe
+C:\Users\ua4aeu\Desktop\WF\Circle\obj\Debug\Circle.pdb
